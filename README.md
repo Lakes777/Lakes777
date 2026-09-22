@@ -10,6 +10,9 @@
 
 <br/>
 
+<a href="https://lakes777.github.io">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfólio"/>
+</a>
 <a href="https://www.linkedin.com/in/andr%C3%A9-lagos-978a95355/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -60,6 +63,7 @@
 | 📝 **Sistema de Quiz** | Sistema web para criar quizzes e acompanhar resultados, com autenticação de usuários e painel administrativo | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | 👥 **Contador de Pessoas** | Projeto de IoT com sensores ultrassônicos, display OLED e servidor web embarcado, simulado no Wokwi | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
 | 🚗 **Simulador de Autoescola** | Simulação interativa desenvolvida em equipe, com código documentado | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
+| 💼 **[Portfólio](https://github.com/Lakes777/Lakes777.github.io)** | Meu site pessoal, feito do zero e publicado com GitHub Pages — [ver ao vivo](https://lakes777.github.io) | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
 
 > 🔨 Novos projetos chegando por aqui em breve!
 
