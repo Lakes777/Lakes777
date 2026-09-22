@@ -10,10 +10,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/andr%C3%A9lagos-978a95355">
+<a href="https://www.linkedin.com/in/andr%C3%A9-lagos-978a95355/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="mailto:andreplagoscontato@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andreplagoscontato@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 <img src="https://img.shields.io/badge/Curitiba%2C%20PR-2c5364?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Curitiba, PR"/>
@@ -29,6 +29,7 @@
 - 🤖 Curto **IoT e hardware**: prototipagem com ESP32/Arduino e manutenção de computadores
 - 🎯 Buscando oportunidades em **desenvolvimento, suporte técnico ou análise de dados**
 - 🌎 Inglês intermediário
+- 📫 Fale comigo: **andreplagoscontato@gmail.com**
 
 ---
 
