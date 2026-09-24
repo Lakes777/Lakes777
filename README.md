@@ -60,6 +60,8 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| 🗂️ **[Organizador de Arquivos](https://github.com/Lakes777/organizador-arquivos)** | Organiza pastas como a de Downloads por tipo ou por data, com modo simulação e sem nunca sobrescrever arquivos | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
+| 💰 **[Controle de Gastos](https://github.com/Lakes777/controle-gastos)** | Aplicativo de terminal para registrar gastos e ver o total por categoria e mês, com testes automatizados | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 📝 **Sistema de Quiz** | Sistema web para criar quizzes e acompanhar resultados, com autenticação de usuários e painel administrativo | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
 | 👥 **Contador de Pessoas** | Projeto de IoT com sensores ultrassônicos, display OLED e servidor web embarcado, simulado no Wokwi | ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white) |
 | 🚗 **Simulador de Autoescola** | Simulação interativa desenvolvida em equipe, com código documentado | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) |
