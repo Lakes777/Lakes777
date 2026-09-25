@@ -42,11 +42,11 @@
 
 **Linguagens & Web**
 
-<img src="https://skillicons.dev/icons?i=python,js,php,html,css&perline=5" alt="Linguagens"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,php,html,css&perline=6" alt="Linguagens"/>
 
 **Banco de dados, ferramentas & hardware**
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,arduino,vscode&perline=5" alt="Ferramentas"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,arduino,vscode&perline=6" alt="Ferramentas"/>
 
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"/>
@@ -60,6 +60,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| 📺 **[Lista de Animes](https://github.com/Lakes777/lista-animes)** | API REST para organizar animes vistos, com dados e capas do MyAnimeList, estatísticas e front próprio | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 🤖 **[Bot de Utilidades](https://github.com/Lakes777/bot-utilidades)** | Bot de Telegram com cotação do Bitcoin e do dólar, clima de qualquer cidade e lembretes, consumindo APIs públicas | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 🗂️ **[Organizador de Arquivos](https://github.com/Lakes777/organizador-arquivos)** | Organiza pastas como a de Downloads por tipo ou por data, com modo simulação e sem nunca sobrescrever arquivos | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 💰 **[Controle de Gastos](https://github.com/Lakes777/controle-gastos)** | Aplicativo de terminal para registrar gastos e ver o total por categoria e mês, com testes automatizados | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
