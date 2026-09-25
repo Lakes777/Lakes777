@@ -60,6 +60,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| 🤖 **[Bot de Utilidades](https://github.com/Lakes777/bot-utilidades)** | Bot de Telegram com cotação do Bitcoin e do dólar, clima de qualquer cidade e lembretes, consumindo APIs públicas | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 🗂️ **[Organizador de Arquivos](https://github.com/Lakes777/organizador-arquivos)** | Organiza pastas como a de Downloads por tipo ou por data, com modo simulação e sem nunca sobrescrever arquivos | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 💰 **[Controle de Gastos](https://github.com/Lakes777/controle-gastos)** | Aplicativo de terminal para registrar gastos e ver o total por categoria e mês, com testes automatizados | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![pytest](https://img.shields.io/badge/-pytest-0A9EDC?logo=pytest&logoColor=white) |
 | 📝 **Sistema de Quiz** | Sistema web para criar quizzes e acompanhar resultados, com autenticação de usuários e painel administrativo | ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
