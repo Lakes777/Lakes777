@@ -4,21 +4,13 @@
 <div align="center">
 
 <!-- Texto animado -->
-<a href="https://github.com/Lakes777">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9!;Desenvolvimento+Web;IoT+com+ESP32+e+Arduino;Sempre+aprendendo+algo+novo" alt="Texto animado" />
-</a>
+<a href="https://github.com/Lakes777"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9!;Desenvolvimento+Web;IoT+com+ESP32+e+Arduino;Sempre+aprendendo+algo+novo" alt="Texto animado" /></a>
 
 <br/>
 
-<a href="https://lakes777.github.io">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-16171a?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7" alt="Portfólio"/>
-</a>
-<a href="https://www.linkedin.com/in/andr%C3%A9-lagos-978a95355/">
-  <img src="https://img.shields.io/badge/LinkedIn-16171a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNEZDM0Y3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI%2BPHBhdGggZD0iTTE2IDIwVjRhMiAyIDAgMCAwLTItMmgtNGEyIDIgMCAwIDAtMiAydjE2IiAvPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgeD0iMiIgeT0iNiIgcng9IjIiIC8%2BPC9zdmc%2B" alt="LinkedIn"/>
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andreplagoscontato@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-16171a?style=for-the-badge&logo=gmail&logoColor=4FC3F7" alt="E-mail"/>
-</a>
+<a href="https://lakes777.github.io"><img src="https://img.shields.io/badge/Portf%C3%B3lio-16171a?style=for-the-badge&logo=googlechrome&logoColor=4FC3F7" alt="Portfólio"/></a>
+<a href="https://www.linkedin.com/in/andr%C3%A9-lagos-978a95355/"><img src="https://img.shields.io/badge/LinkedIn-16171a?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNEZDM0Y3IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBhcmlhLWhpZGRlbj0idHJ1ZSIgZm9jdXNhYmxlPSJmYWxzZSI%2BPHBhdGggZD0iTTE2IDIwVjRhMiAyIDAgMCAwLTItMmgtNGEyIDIgMCAwIDAtMiAydjE2IiAvPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIxNCIgeD0iMiIgeT0iNiIgcng9IjIiIC8%2BPC9zdmc%2B" alt="LinkedIn"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=andreplagoscontato@gmail.com"><img src="https://img.shields.io/badge/Gmail-16171a?style=for-the-badge&logo=gmail&logoColor=4FC3F7" alt="E-mail"/></a>
 <img src="https://img.shields.io/badge/Curitiba%2C%20PR-16171a?style=for-the-badge&logo=googlemaps&logoColor=4FC3F7" alt="Curitiba, PR"/>
 
 </div>
