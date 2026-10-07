@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Texto animado -->
-<a href="https://github.com/Lakes777"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9!;Desenvolvimento+Web;IoT+com+ESP32+e+Arduino;Sempre+aprendendo+algo+novo" alt="Texto animado" /></a>
+<a href="https://github.com/Lakes777"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4FC3F7&center=true&vCenter=true&width=520&lines=Ol%C3%A1%2C+eu+sou+o+Andr%C3%A9!;Back-end+com+Java+e+Python;APIs%2C+bancos+de+dados+e+testes;Projetos+no+ar+com+Docker+e+nuvem" alt="Texto animado" /></a>
 
 <br/>
 
@@ -20,9 +20,11 @@
 ## <img src="assets/icones/user-round.svg" width="24" height="24" alt="" align="top"> Sobre mim
 
 - <img src="assets/icones/graduation-cap.svg" width="18" height="18" alt="" align="top"> Cursando **Engenharia de Software** na **PUC-PR** (2025 – 2029)
-- <img src="assets/icones/globe.svg" width="18" height="18" alt="" align="top"> Experiência prática com **desenvolvimento web** e projetos acadêmicos
-- <img src="assets/icones/microchip.svg" width="18" height="18" alt="" align="top"> Curto **IoT e hardware**: prototipagem com ESP32/Arduino e manutenção de computadores
+- <img src="assets/icones/server.svg" width="18" height="18" alt="" align="top"> Foco em **back-end**: APIs REST com **Java (Spring Boot)** e **Python (FastAPI)**, bancos **PostgreSQL** e SQL escrito à mão
+- <img src="assets/icones/globe.svg" width="18" height="18" alt="" align="top"> Front-end com **React e TypeScript** quando o projeto pede uma interface
+- <img src="assets/icones/rocket.svg" width="18" height="18" alt="" align="top"> Projetos **no ar** (Vercel, Render e uma VM Linux da Oracle com **Docker** e HTTPS), com **quase 2.900 testes** automatizados e CI no GitHub Actions
 - <img src="assets/icones/target.svg" width="18" height="18" alt="" align="top"> Buscando oportunidades em **desenvolvimento, suporte técnico ou análise de dados**
+- <img src="assets/icones/microchip.svg" width="18" height="18" alt="" align="top"> Fora do código: curto hardware, manutenção de computadores e IoT com ESP32/Arduino
 - <img src="assets/icones/languages.svg" width="18" height="18" alt="" align="top"> Inglês intermediário
 - <img src="assets/icones/mail.svg" width="18" height="18" alt="" align="top"> Fale comigo: **andreplagoscontato@gmail.com**
 
@@ -32,32 +34,41 @@
 
 <div align="center">
 
-**Linguagens & Web**
+**Back-end**
 
-![Python](https://img.shields.io/badge/-Python-16171a?style=for-the-badge&logo=python&logoColor=4FC3F7)
 ![Java](https://img.shields.io/badge/-Java-16171a?style=for-the-badge&logo=openjdk&logoColor=4FC3F7)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-16171a?style=for-the-badge&logo=springboot&logoColor=4FC3F7)
+![Python](https://img.shields.io/badge/-Python-16171a?style=for-the-badge&logo=python&logoColor=4FC3F7)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?style=for-the-badge&logo=fastapi&logoColor=4FC3F7)
-![JavaScript](https://img.shields.io/badge/-JavaScript-16171a?style=for-the-badge&logo=javascript&logoColor=4FC3F7)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?style=for-the-badge&logo=postgresql&logoColor=4FC3F7)
+![SQLite](https://img.shields.io/badge/-SQLite-16171a?style=for-the-badge&logo=sqlite&logoColor=4FC3F7)
+![MySQL](https://img.shields.io/badge/-MySQL-16171a?style=for-the-badge&logo=mysql&logoColor=4FC3F7)
+
+**Front-end**
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-16171a?style=for-the-badge&logo=typescript&logoColor=4FC3F7)
 ![React](https://img.shields.io/badge/-React-16171a?style=for-the-badge&logo=react&logoColor=4FC3F7)
-![PHP](https://img.shields.io/badge/-PHP-16171a?style=for-the-badge&logo=php&logoColor=4FC3F7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-16171a?style=for-the-badge&logo=javascript&logoColor=4FC3F7)
 ![HTML](https://img.shields.io/badge/-HTML-16171a?style=for-the-badge&logo=html5&logoColor=4FC3F7)
 ![CSS](https://img.shields.io/badge/-CSS-16171a?style=for-the-badge&logo=css&logoColor=4FC3F7)
 
-**Banco de dados, ferramentas & hardware**
+**Testes, deploy & ferramentas**
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?style=for-the-badge&logo=postgresql&logoColor=4FC3F7)
-![MySQL](https://img.shields.io/badge/-MySQL-16171a?style=for-the-badge&logo=mysql&logoColor=4FC3F7)
-![SQLite](https://img.shields.io/badge/-SQLite-16171a?style=for-the-badge&logo=sqlite&logoColor=4FC3F7)
+![pytest](https://img.shields.io/badge/-pytest-16171a?style=for-the-badge&logo=pytest&logoColor=4FC3F7)
+![JUnit](https://img.shields.io/badge/-JUnit-16171a?style=for-the-badge&logo=junit5&logoColor=4FC3F7)
+![Vitest](https://img.shields.io/badge/-Vitest-16171a?style=for-the-badge&logo=vitest&logoColor=4FC3F7)
 ![Docker](https://img.shields.io/badge/-Docker-16171a?style=for-the-badge&logo=docker&logoColor=4FC3F7)
+![Linux](https://img.shields.io/badge/-Linux-16171a?style=for-the-badge&logo=linux&logoColor=4FC3F7)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-16171a?style=for-the-badge&logo=githubactions&logoColor=4FC3F7)
 ![Git](https://img.shields.io/badge/-Git-16171a?style=for-the-badge&logo=git&logoColor=4FC3F7)
-![GitHub](https://img.shields.io/badge/-GitHub-16171a?style=for-the-badge&logo=github&logoColor=4FC3F7)
-![VS Code](https://img.shields.io/badge/-VS_Code-16171a?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/-Vercel-16171a?style=for-the-badge&logo=vercel&logoColor=4FC3F7)
+
+**Também**
+
+![PHP](https://img.shields.io/badge/-PHP-16171a?style=for-the-badge&logo=php&logoColor=4FC3F7)
 ![Excel](https://img.shields.io/badge/-Excel-16171a?style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/-Arduino-16171a?style=for-the-badge&logo=arduino&logoColor=4FC3F7)
 ![ESP32](https://img.shields.io/badge/-ESP32-16171a?style=for-the-badge&logo=espressif&logoColor=4FC3F7)
-![Wokwi](https://img.shields.io/badge/-Wokwi-16171a?style=for-the-badge)
 
 </div>
 
@@ -68,12 +79,12 @@
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | <img src="assets/icones/activity.svg" width="18" height="18" alt="" align="top"> **[Vigil](https://github.com/Lakes777/vigil)** · monitor de status | API em Java que verifica de tempos em tempos se os meus sites estão no ar, calcula a disponibilidade e as quedas e avisa pelo Telegram; Spring Security, proteção contra SSRF e 163 testes com Testcontainers; roda com Docker numa VM da Oracle Cloud — [ver ao vivo](https://147-15-40-173.sslip.io) | ![Java](https://img.shields.io/badge/-Java-16171a?logo=openjdk&logoColor=4FC3F7) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-16171a?logo=springboot&logoColor=4FC3F7) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?logo=postgresql&logoColor=4FC3F7) ![Docker](https://img.shields.io/badge/-Docker-16171a?logo=docker&logoColor=4FC3F7) |
+| <img src="assets/icones/wallet.svg" width="18" height="18" alt="" align="top"> **[Spendwise](https://github.com/Lakes777/controle-gastos)** · controle de gastos | Controle de gastos no terminal e na web: importa extratos do Nubank e o OFX de qualquer banco, lança gastos recorrentes, avisa sobre o orçamento e exporta para Excel; login com senha em argon2id e demo com Postgres em que cada visitante tem os próprios dados — [ver ao vivo](https://controle-gastos-lakes777.vercel.app) | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?logo=fastapi&logoColor=4FC3F7) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?logo=postgresql&logoColor=4FC3F7) ![SQLite](https://img.shields.io/badge/-SQLite-16171a?logo=sqlite&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
 | <img src="assets/icones/graduation-cap.svg" width="18" height="18" alt="" align="top"> **[Coursebook](https://github.com/Lakes777/painel-estudos)** · painel de estudos | Painel da faculdade com notas por RA, faltas, pontos extras e agenda; calcula quanto falta para passar pela regra da PUC-PR, com cadastro passo a passo ou por IA a partir do plano de ensino e conta opcional que sincroniza entre aparelhos — [ver ao vivo](https://painel-estudos-cyan.vercel.app) | ![React](https://img.shields.io/badge/-React-16171a?logo=react&logoColor=4FC3F7) ![TypeScript](https://img.shields.io/badge/-TypeScript-16171a?logo=typescript&logoColor=4FC3F7) ![Vite](https://img.shields.io/badge/-Vite-16171a?logo=vite&logoColor=4FC3F7) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?logo=postgresql&logoColor=4FC3F7) ![Vitest](https://img.shields.io/badge/-Vitest-16171a?logo=vitest&logoColor=4FC3F7) |
-| <img src="assets/icones/mic-vocal.svg" width="18" height="18" alt="" align="top"> **[Encore](https://github.com/Lakes777/karaoke-web)** · karaokê com IA | Karaokê que roda no próprio computador: busca músicas no YouTube com prévia, separa com IA a voz principal, os vocais de apoio e o instrumental, descobre o tom e mostra a letra sincronizada do LRCLIB, com volume por faixa | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?logo=fastapi&logoColor=4FC3F7) ![React](https://img.shields.io/badge/-React-16171a?logo=react&logoColor=4FC3F7) ![TypeScript](https://img.shields.io/badge/-TypeScript-16171a?logo=typescript&logoColor=4FC3F7) ![PyTorch](https://img.shields.io/badge/-PyTorch-16171a?logo=pytorch&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
 | <img src="assets/icones/tv.svg" width="18" height="18" alt="" align="top"> **[Hanami](https://github.com/Lakes777/lista-animes)** · lista de animes | API REST para organizar animes vistos, com dados e capas do MyAnimeList, temporadas agrupadas, comentários, estatísticas e front próprio — [ver ao vivo](https://lista-animes-b8ql.onrender.com) (servidor gratuito: a primeira abertura pode levar até 1 minuto) | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?logo=fastapi&logoColor=4FC3F7) ![SQLite](https://img.shields.io/badge/-SQLite-16171a?logo=sqlite&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
 | <img src="assets/icones/bot.svg" width="18" height="18" alt="" align="top"> **[Sidekick](https://github.com/Lakes777/bot-utilidades)** · bot de utilidades | Bot de Telegram com cotação do Bitcoin e do dólar, alertas de preço, clima e lembretes salvos em SQLite; roda 24h numa VM da Oracle Cloud com systemd | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![Telegram](https://img.shields.io/badge/-Telegram-16171a?logo=telegram&logoColor=4FC3F7) ![SQLite](https://img.shields.io/badge/-SQLite-16171a?logo=sqlite&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
+| <img src="assets/icones/mic-vocal.svg" width="18" height="18" alt="" align="top"> **[Encore](https://github.com/Lakes777/karaoke-web)** · karaokê com IA | Karaokê que roda no próprio computador: busca músicas no YouTube com prévia, separa com IA a voz principal, os vocais de apoio e o instrumental, descobre o tom e mostra a letra sincronizada do LRCLIB, com volume por faixa | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?logo=fastapi&logoColor=4FC3F7) ![React](https://img.shields.io/badge/-React-16171a?logo=react&logoColor=4FC3F7) ![TypeScript](https://img.shields.io/badge/-TypeScript-16171a?logo=typescript&logoColor=4FC3F7) ![PyTorch](https://img.shields.io/badge/-PyTorch-16171a?logo=pytorch&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
 | <img src="assets/icones/folder-tree.svg" width="18" height="18" alt="" align="top"> **[Tidy](https://github.com/Lakes777/organizador-arquivos)** · organizador de arquivos | Organiza pastas como a de Downloads por tipo ou por data, acha duplicados pelo conteúdo (SHA-256) e desfaz a última mudança, com modo simulação e sem nunca sobrescrever arquivos | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
-| <img src="assets/icones/wallet.svg" width="18" height="18" alt="" align="top"> **[Spendwise](https://github.com/Lakes777/controle-gastos)** · controle de gastos | Controle de gastos no terminal e na web: importa extratos do Nubank e o OFX de qualquer banco, lança gastos recorrentes, avisa sobre o orçamento e exporta para Excel; login com senha em argon2id e demo com Postgres em que cada visitante tem os próprios dados — [ver ao vivo](https://controle-gastos-lakes777.vercel.app) | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?logo=fastapi&logoColor=4FC3F7) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?logo=postgresql&logoColor=4FC3F7) ![SQLite](https://img.shields.io/badge/-SQLite-16171a?logo=sqlite&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
 | <img src="assets/icones/list-checks.svg" width="18" height="18" alt="" align="top"> **Sistema de Quiz** | Sistema web para criar quizzes e acompanhar resultados, com autenticação de usuários e painel administrativo | ![PHP](https://img.shields.io/badge/-PHP-16171a?logo=php&logoColor=4FC3F7) ![MySQL](https://img.shields.io/badge/-MySQL-16171a?logo=mysql&logoColor=4FC3F7) |
 | <img src="assets/icones/users.svg" width="18" height="18" alt="" align="top"> **Contador de Pessoas** | Projeto de IoT com sensores ultrassônicos, display OLED e servidor web embarcado, simulado no Wokwi | ![ESP32](https://img.shields.io/badge/-ESP32-16171a?logo=espressif&logoColor=4FC3F7) ![C++](https://img.shields.io/badge/-C++-16171a?logo=cplusplus&logoColor=4FC3F7) |
 | <img src="assets/icones/car.svg" width="18" height="18" alt="" align="top"> **Simulador de Autoescola** | Simulação interativa desenvolvida em equipe, com código documentado | ![JavaScript](https://img.shields.io/badge/-JavaScript-16171a?logo=javascript&logoColor=4FC3F7) |
