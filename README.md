@@ -35,6 +35,8 @@
 **Linguagens & Web**
 
 ![Python](https://img.shields.io/badge/-Python-16171a?style=for-the-badge&logo=python&logoColor=4FC3F7)
+![Java](https://img.shields.io/badge/-Java-16171a?style=for-the-badge&logo=openjdk&logoColor=4FC3F7)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-16171a?style=for-the-badge&logo=springboot&logoColor=4FC3F7)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?style=for-the-badge&logo=fastapi&logoColor=4FC3F7)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-16171a?style=for-the-badge&logo=javascript&logoColor=4FC3F7)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-16171a?style=for-the-badge&logo=typescript&logoColor=4FC3F7)
@@ -48,6 +50,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?style=for-the-badge&logo=postgresql&logoColor=4FC3F7)
 ![MySQL](https://img.shields.io/badge/-MySQL-16171a?style=for-the-badge&logo=mysql&logoColor=4FC3F7)
 ![SQLite](https://img.shields.io/badge/-SQLite-16171a?style=for-the-badge&logo=sqlite&logoColor=4FC3F7)
+![Docker](https://img.shields.io/badge/-Docker-16171a?style=for-the-badge&logo=docker&logoColor=4FC3F7)
 ![Git](https://img.shields.io/badge/-Git-16171a?style=for-the-badge&logo=git&logoColor=4FC3F7)
 ![GitHub](https://img.shields.io/badge/-GitHub-16171a?style=for-the-badge&logo=github&logoColor=4FC3F7)
 ![VS Code](https://img.shields.io/badge/-VS_Code-16171a?style=for-the-badge)
@@ -64,6 +67,7 @@
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
+| <img src="assets/icones/activity.svg" width="18" height="18" alt="" align="top"> **[Vigil](https://github.com/Lakes777/vigil)** · monitor de status | API em Java que verifica de tempos em tempos se os meus sites estão no ar, calcula a disponibilidade e as quedas e avisa pelo Telegram; Spring Security, proteção contra SSRF e 163 testes com Testcontainers; roda com Docker numa VM da Oracle Cloud — [ver ao vivo](https://147-15-40-173.sslip.io) | ![Java](https://img.shields.io/badge/-Java-16171a?logo=openjdk&logoColor=4FC3F7) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-16171a?logo=springboot&logoColor=4FC3F7) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?logo=postgresql&logoColor=4FC3F7) ![Docker](https://img.shields.io/badge/-Docker-16171a?logo=docker&logoColor=4FC3F7) |
 | <img src="assets/icones/graduation-cap.svg" width="18" height="18" alt="" align="top"> **[Coursebook](https://github.com/Lakes777/painel-estudos)** · painel de estudos | Painel da faculdade com notas por RA, faltas, pontos extras e agenda; calcula quanto falta para passar pela regra da PUC-PR, com cadastro passo a passo ou por IA a partir do plano de ensino e conta opcional que sincroniza entre aparelhos — [ver ao vivo](https://painel-estudos-cyan.vercel.app) | ![React](https://img.shields.io/badge/-React-16171a?logo=react&logoColor=4FC3F7) ![TypeScript](https://img.shields.io/badge/-TypeScript-16171a?logo=typescript&logoColor=4FC3F7) ![Vite](https://img.shields.io/badge/-Vite-16171a?logo=vite&logoColor=4FC3F7) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-16171a?logo=postgresql&logoColor=4FC3F7) ![Vitest](https://img.shields.io/badge/-Vitest-16171a?logo=vitest&logoColor=4FC3F7) |
 | <img src="assets/icones/mic-vocal.svg" width="18" height="18" alt="" align="top"> **[Encore](https://github.com/Lakes777/karaoke-web)** · karaokê com IA | Karaokê que roda no próprio computador: busca músicas no YouTube com prévia, separa com IA a voz principal, os vocais de apoio e o instrumental, descobre o tom e mostra a letra sincronizada do LRCLIB, com volume por faixa | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?logo=fastapi&logoColor=4FC3F7) ![React](https://img.shields.io/badge/-React-16171a?logo=react&logoColor=4FC3F7) ![TypeScript](https://img.shields.io/badge/-TypeScript-16171a?logo=typescript&logoColor=4FC3F7) ![PyTorch](https://img.shields.io/badge/-PyTorch-16171a?logo=pytorch&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
 | <img src="assets/icones/tv.svg" width="18" height="18" alt="" align="top"> **[Hanami](https://github.com/Lakes777/lista-animes)** · lista de animes | API REST para organizar animes vistos, com dados e capas do MyAnimeList, temporadas agrupadas, comentários, estatísticas e front próprio — [ver ao vivo](https://lista-animes-b8ql.onrender.com) (servidor gratuito: a primeira abertura pode levar até 1 minuto) | ![Python](https://img.shields.io/badge/-Python-16171a?logo=python&logoColor=4FC3F7) ![FastAPI](https://img.shields.io/badge/-FastAPI-16171a?logo=fastapi&logoColor=4FC3F7) ![SQLite](https://img.shields.io/badge/-SQLite-16171a?logo=sqlite&logoColor=4FC3F7) ![pytest](https://img.shields.io/badge/-pytest-16171a?logo=pytest&logoColor=4FC3F7) |
